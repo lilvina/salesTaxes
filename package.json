@@ -1,0 +1,11 @@
+{
+  "name": "salesTaxes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lilvina/salesTaxes.git",
+  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js"
+  }
+}
